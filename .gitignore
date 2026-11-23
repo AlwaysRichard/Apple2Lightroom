@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Personal, not for the repository:
+# run logs (paths and file names from your library)
+logs/
+# one-off scripts for this machine
+local/
+# working notes with personal paths and results
+DESIGN.md
+*.bak*
